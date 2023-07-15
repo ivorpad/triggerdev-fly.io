@@ -2,7 +2,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "trigger-v2-fly-demo"
+app = "ivorpad-trigger-v2-fly-demo"
 primary_region = "mia"
 
 [build]
